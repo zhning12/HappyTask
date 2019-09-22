@@ -1,12 +1,7 @@
-# 云开发 quickstart
+# HappyTask
 
-这是云开发的快速启动指引，其中演示了如何上手使用云开发的三大基础能力：
-
-- 数据库：一个既可在小程序前端操作，也能在云函数中读写的 JSON 文档型数据库
-- 文件存储：在小程序前端直接上传/下载云端文件，在云开发控制台可视化管理
-- 云函数：在云端运行的代码，微信私有协议天然鉴权，开发者只需编写业务逻辑代码
-
-## 参考文档
-
-- [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
+## 前情提要
+原型是App：PlayTask，但是作者已经有好几年没有更新了，有严重的bug和适配问题，遂动手做一个，主要是为了自己使用，会慢慢优化。
+设计理念为知乎一个回答：[如何从一个空有上进心的人，变成行动上的巨人？](https://www.zhihu.com/question/33453309/answer/59504539?hb_wx_block=1)
+UI设计图由港理童鞋 @Jasmine 提供，万分感谢！
 
